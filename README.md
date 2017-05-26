@@ -6,6 +6,3 @@
 * Mercurial (hg)
 * Terminal Multiplexer (tmux)
 * Mosh (mosh)
-
-## Life
-* Redshift (http://jonls.dk/redshift/)[2]
